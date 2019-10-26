@@ -4,3 +4,4 @@
 
 #!/bin/bash
 echo "Hello MNNIT!"
+# It should be MNNITians instead of MNNIT.
